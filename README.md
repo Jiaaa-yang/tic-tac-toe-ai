@@ -1,5 +1,5 @@
 # tic-tac-toe-ai
-Simple game of tic-tac-toe against a computer AI built with pygame.
+Simple game of tic-tac-toe against a computer AI with minimax algorithm built with pygame.
 
 Pygame GUI from CS50's introduction to AI assignment
 
